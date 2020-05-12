@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 60e6c11240f1e29dbef8df67a01ef580ce01cadf Lantos <lantos@server1804.(none)> 1589240964 +0000	clone: from https://github.com/wardviaene/docker-demo.git
+60e6c11240f1e29dbef8df67a01ef580ce01cadf 3524b526ec2a4511dd06bb487cfcb250fdba9ca6 lantossl <lantos.sl@itvagyunk.info> 1589241411 +0000	commit: I have changed the "Hello World!" to "OK".
